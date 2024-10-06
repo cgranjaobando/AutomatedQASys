@@ -1,4 +1,4 @@
-https://www.gadget-pro-steals.com/personal-air-cooler/deal-alert/?affid=58	WindWhirligig Personal Air Cooler
-https://www.gadget-pro-steals.com/personal-air-cooler/featured-products/?affid=58	PuffParadox Personal Air Cooler
-https://www.gadget-pro-steals.com/personal-air-cooler/hot-products/?affid=58	ChillChameleon Personal Air Cooler
-https://www.gadget-pro-steals.com/personal-air-cooler/price-busters/?affid=58	ZephyrZenith Personal Air Cooler
+https://example.com/personal-air-cooler/deal-alert/?affid=58	WindWhirligig Personal Air Cooler
+https://www.example.com/personal-air-cooler/featured-products/?affid=58	PuffParadox Personal Air Cooler
+https://www.example.com/personal-air-cooler/hot-products/?affid=58	ChillChameleon Personal Air Cooler
+https://www.example.com/personal-air-cooler/price-busters/?affid=58	ZephyrZenith Personal Air Cooler
